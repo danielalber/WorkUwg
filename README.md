@@ -15,5 +15,5 @@
     ✅- Stockage des quêtes réalisé dans la base de données pour chaque charactère et non joueur.</br>
     ✅ Vérification des quêtes requis pour afficher les quêtes suivante.</br>
 
-- Armes
+- Armes</br>
     ✅ Réglage affichage BodyGroups des armes dans l'inventaire
