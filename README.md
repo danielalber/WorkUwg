@@ -16,5 +16,5 @@
     ✅ Vérification des quêtes requis pour afficher les quêtes suivante.</br>
 
 - Armes</br>
-    ✅ Réglage affichage BodyGroups des armes dans l'inventaire
-    💻 Affichage des armes dans le menu scroll inventaire
+    ✅ Réglage affichage BodyGroups des armes dans l'inventaire</br>
+    💻 Affichage des armes dans le menu scroll inventaire</br>
