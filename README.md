@@ -14,3 +14,6 @@
 - Système de quêtes</br>
     ✅- Stockage des quêtes réalisé dans la base de données pour chaque charactère et non joueur.</br>
     ✅ Vérification des quêtes requis pour afficher les quêtes suivante.</br>
+
+- Armes
+    ✅ Réglage affichage BodyGroups des armes dans l'inventaire
