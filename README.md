@@ -20,3 +20,6 @@
     ✅ Réglage Bodygroups des armes dans l'inventaire</br>
     ✅ Réglage bodygroups armes au sol et dans les mains</br>
     ✅ Affichage des armes dans le menu scroll inventaire</br>
+
+- HUD</br>
+    ✅ affichage statut "dans les menus..."
