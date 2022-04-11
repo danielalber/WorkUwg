@@ -17,4 +17,6 @@
 
 - Armes</br>
     ✅ Réglage affichage BodyGroups des armes dans l'inventaire</br>
-    💻 Affichage des armes dans le menu scroll inventaire</br>
+    ✅ Réglage Bodygroups des armes dans l'inventaire</br>
+    ✅ Réglage bodygroups armes au sol et dans les mains</br>
+    ✅ Affichage des armes dans le menu scroll inventaire</br>
