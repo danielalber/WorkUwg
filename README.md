@@ -20,8 +20,14 @@
     ✅ Réglage Bodygroups des armes dans l'inventaire</br>
     ✅ Réglage bodygroups armes au sol et dans les mains</br>
     ✅ Affichage des armes dans le menu scroll inventaire</br>
-    ✅ ajout des animations des mains + attaque
+    ✅ Ajout des animations des mains + attaque</br>
+    ✅ Arme qui reste dans les mains après l'avoir remove de l'inventaire</br>
+    ✅ Affichage des armes dans le menu scroll au spawn</br>
+    ✅ Remove chargeur quand rechargement
     
 - HUD</br>
-    ✅ affichage statut "dans les menus..."
+    ✅ affichage statut "dans les menus..."</br>
 
+- Menu Admin</br>
+    ✅ Fix des spawn des item
+    
