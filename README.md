@@ -10,6 +10,7 @@
     ✅ - Dépot d'un item dans la poubelle</br>
     ✅ - Recupération d'un item depuis la poubell.</br>
     ✅ - Modification de l'inventaire du joueur par rapport au action du joueur dans la poubelle ( give item ou remove item from inventory ) dans la base de donnée.</br>
+    ✅ - récupération armes ou retirer armes si pose ou recupéré
 
 - Système de quêtes</br>
     ✅- Stockage des quêtes réalisé dans la base de données pour chaque charactère et non joueur.</br>
