@@ -17,12 +17,11 @@
     ✅ - Vérification des quêtes requis pour afficher les quêtes suivante.</br>
 
 - Armes</br>
-    ✅ - Réglage affichage BodyGroups des armes dans l'inventaire</br>
-    ✅ - Réglage Bodygroups des armes dans l'inventaire</br>
-    ✅ - Réglage bodygroups armes au sol et dans les mains</br>
-    ✅ - Affichage des armes dans le menu scroll inventaire</br>
+    ✅ - Fix Bodygroups des armes dans l'inventaire</br>
+    ✅ - Fix bodygroups armes au sol et dans les mains</br>
+    ✅ - Fix Affichage des armes dans le menu scroll inventaire</br>
     ✅ - Ajout des animations des mains + attaque</br>
-    ✅ - Arme qui reste dans les mains après l'avoir remove de l'inventaire</br>
+    ✅ - Fix Arme qui reste dans les mains après l'avoir remove de l'inventaire</br>
     ✅ - Affichage des armes dans le menu scroll au spawn</br>
     ✅ - Remove chargeur quand rechargement
     
@@ -30,5 +29,13 @@
     ✅ - affichage statut "dans les menus..."</br>
 
 - Menu Admin</br>
-    ✅ - Fix des spawn des item
+    ✅ - Fix spawn des item</br>
     
+- Cuisine</br>
+    ✅ - Stockage gaz en DB</br>
+    ✅ - Stockage Inventaire de la stove en DB</br>
+    ✅ - Déplacer un item de l'inventaire joueur à l'inventaire de la stove (vis versa)</br>
+    ✅ - Fix du bouton de fermeture de la fenetre</br>
+    ✅ - </br>
+
+
