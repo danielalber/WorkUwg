@@ -13,22 +13,22 @@
     ✅ - récupération armes ou retirer armes si pose ou recupéré
 
 - Système de quêtes</br>
-    ✅- Stockage des quêtes réalisé dans la base de données pour chaque charactère et non joueur.</br>
-    ✅ Vérification des quêtes requis pour afficher les quêtes suivante.</br>
+    ✅ - Stockage des quêtes réalisé dans la base de données pour chaque charactère et non joueur.</br>
+    ✅ - Vérification des quêtes requis pour afficher les quêtes suivante.</br>
 
 - Armes</br>
-    ✅ Réglage affichage BodyGroups des armes dans l'inventaire</br>
-    ✅ Réglage Bodygroups des armes dans l'inventaire</br>
-    ✅ Réglage bodygroups armes au sol et dans les mains</br>
-    ✅ Affichage des armes dans le menu scroll inventaire</br>
-    ✅ Ajout des animations des mains + attaque</br>
-    ✅ Arme qui reste dans les mains après l'avoir remove de l'inventaire</br>
-    ✅ Affichage des armes dans le menu scroll au spawn</br>
-    ✅ Remove chargeur quand rechargement
+    ✅ - Réglage affichage BodyGroups des armes dans l'inventaire</br>
+    ✅ - Réglage Bodygroups des armes dans l'inventaire</br>
+    ✅ - Réglage bodygroups armes au sol et dans les mains</br>
+    ✅ - Affichage des armes dans le menu scroll inventaire</br>
+    ✅ - Ajout des animations des mains + attaque</br>
+    ✅ - Arme qui reste dans les mains après l'avoir remove de l'inventaire</br>
+    ✅ - Affichage des armes dans le menu scroll au spawn</br>
+    ✅ - Remove chargeur quand rechargement
     
 - HUD</br>
-    ✅ affichage statut "dans les menus..."</br>
+    ✅ - affichage statut "dans les menus..."</br>
 
 - Menu Admin</br>
-    ✅ Fix des spawn des item
+    ✅ - Fix des spawn des item
     
